@@ -11,7 +11,7 @@ The dataset used for this project can be downloaded from : [https://www.kaggle.c
 **Week 1** \
 Uploaded, extracted, and organized the dataset for analysis.\
 Installed essential libraries, including TensorFlow.\
-Visualized the dataset samples.\
+Visualized the dataset samples.
 
-**Week 2** \ 
-Preprocessing and Augmentation\
+**Week 2** \
+Preprocessing and Augmentation.
