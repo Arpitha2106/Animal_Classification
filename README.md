@@ -15,3 +15,9 @@ Visualized the dataset samples.
 
 **Week 2** \
 Preprocessing and Augmentation.
+
+**Week 3** \
+Loaded MobileNetV2 as the base model with customised top layer.\
+Trained, evaluated & saved the model.
+
+Saved model : https://drive.google.com/file/d/1IAYWdUu4p_YcKLqM6kDxlckb3aXqCS1q/view?usp=drive_link
